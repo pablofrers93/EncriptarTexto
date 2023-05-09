@@ -11,13 +11,10 @@ namespace RetoLenguajeHacker
         static void Main(string[] args)
         {
             Dictionary<char, string> LenguajeHacker = new Dictionary<char, string>();
-            char[] abecedario = new char[26];
-            
-            CrearCadenaAbecedario(abecedario);
-            ArmarDiccionarioHacker(LenguajeHacker, abecedario, CrearCadenaSimbolosHacker());
-            
 
-            string texto = "texto a encriptar";
+            ArmarDiccionarioHacker(LenguajeHacker, CrearCadenaAbecedario(), CrearCadenaSimbolosHacker());           
+
+            string texto = "El fichero de código debe situarse dentro del directorio del reto, en la carpeta correspondiente al lenguaje de programación utilizado (si no existe la carpeta del lenguaje, créala con todas sus letras en minúsculas). \r\nPor ejemplo, si has resuelto el reto #0 utilizando el lenguaje de programación Kotlin y tu usuario de GitHub se llama mouredev, tu corrección deberá estar en";
             texto=  texto.ToUpper();
             Console.WriteLine(texto);
             Console.WriteLine();
@@ -49,14 +46,16 @@ namespace RetoLenguajeHacker
             return cadenaValoresSeparada;
         }
 
-        private static void CrearCadenaAbecedario(char[] abecedario)
+        private static char[] CrearCadenaAbecedario()
         {
+            char[] abecedario = new char[26];
             var contador = 0;
             for (char i = 'A'; i <= 'Z'; i++)
             {
                 abecedario[contador] = i;
                 contador++;
-            }        
+            }       
+            return abecedario;
         }
 
         private static void ArmarDiccionarioHacker(Dictionary<char, string>diccionario, char[] abecedario, string[] cadenaCodigos)
