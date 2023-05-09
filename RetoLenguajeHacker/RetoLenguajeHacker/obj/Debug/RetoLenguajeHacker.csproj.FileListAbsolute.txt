@@ -1,0 +1,8 @@
+C:\Users\pablo\OneDrive\Documentos\Proyectos\RetosProgramacion\RetoLenguajeHacker\RetoLenguajeHacker\bin\Debug\RetoLenguajeHacker.exe.config
+C:\Users\pablo\OneDrive\Documentos\Proyectos\RetosProgramacion\RetoLenguajeHacker\RetoLenguajeHacker\bin\Debug\RetoLenguajeHacker.exe
+C:\Users\pablo\OneDrive\Documentos\Proyectos\RetosProgramacion\RetoLenguajeHacker\RetoLenguajeHacker\bin\Debug\RetoLenguajeHacker.pdb
+C:\Users\pablo\OneDrive\Documentos\Proyectos\RetosProgramacion\RetoLenguajeHacker\RetoLenguajeHacker\obj\Debug\RetoLenguajeHacker.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Documentos\Proyectos\RetosProgramacion\RetoLenguajeHacker\RetoLenguajeHacker\obj\Debug\RetoLenguajeHacker.csproj.SuggestedBindingRedirects.cache
+C:\Users\pablo\OneDrive\Documentos\Proyectos\RetosProgramacion\RetoLenguajeHacker\RetoLenguajeHacker\obj\Debug\RetoLenguajeHacker.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Documentos\Proyectos\RetosProgramacion\RetoLenguajeHacker\RetoLenguajeHacker\obj\Debug\RetoLenguajeHacker.exe
+C:\Users\pablo\OneDrive\Documentos\Proyectos\RetosProgramacion\RetoLenguajeHacker\RetoLenguajeHacker\obj\Debug\RetoLenguajeHacker.pdb
